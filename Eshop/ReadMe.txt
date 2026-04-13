@@ -1,0 +1,1 @@
+Jednoducha staticka html a css stranka pro male kvetinarstvi
